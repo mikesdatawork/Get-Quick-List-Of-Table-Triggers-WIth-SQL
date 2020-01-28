@@ -12,8 +12,8 @@
 - [Author](#Author)  
 - [License](#License)       
 
-## About-Process    <div>
-Here's some quick sql logic to show you a list of all the triggers in a particular table. I'm using the msdb..sysjobhistory table as an example.
+## About-Process    
+<div>Here's some quick sql logic to show you a list of all the triggers in a particular table. I'm using the msdb..sysjobhistory table as an example.
 ---
 ## SQL-Logic
 ```SQL
