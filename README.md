@@ -6,15 +6,16 @@
 
 
 ## Contents    
-- [About Process](##About-Process)  
+- [About Process](#About-Process)  
 - [SQL Logic](#SQL-Logic)  
 - [Build Info](#Build-Info)  
 - [Author](#Author)  
 - [License](#License)       
 
 ## About-Process    
-<div>Here's some quick sql logic to show you a list of all the triggers in a particular table. I'm using the msdb..sysjobhistory table as an example.
-	</div>
+> Here's some quick sql logic to show you a list of all the triggers in a particular table. I'm using the msdb..sysjobhistory table as an example.
+
+
 ---
 ## SQL-Logic
 ```SQL
